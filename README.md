@@ -27,3 +27,20 @@ p {
   <p>به سایت ما خوش آمدید!</p>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>آگهی فروش آهن</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>آگهی فروش آهن</h1>
+  <div class="ad-card">
+    <h2>آهن قراضه - تهران</h2>
+    <p>مقدار: ۱۰۰۰ کیلوگرم</p>
+    <p>قیمت: توافقی</p>
+    <p>تماس: 0912-XXX-XXXX</p>
+  </div>
+</body>
+</html>
