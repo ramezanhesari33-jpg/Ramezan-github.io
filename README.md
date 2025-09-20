@@ -6,7 +6,31 @@
   text-align: center;
   padding: 50px;
 }
-<!DOCTYPE html>
+<!DOCTYPE html><!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>خانه</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul class="menu">
+        <li><a href="index.html">خانه</a></li>
+        <li><a href="contact.html">تماس با ما</a></li>
+        <li><a href="signup.html">ثبت‌نام</a></li>
+        <li><a href="payment.html">پرداخت</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>👋 خوش آمدی رَمِضان!</h1>
+    <p>به صفحه‌ی اصلی سایت خوش آمدی.</p>
+  </main>
+</body>
+   </html>
 <html lang="fa">
 <head>
   <meta charset="UTF-8">
