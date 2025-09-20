@@ -6,7 +6,29 @@
   text-align: center;
   padding: 50px;
 }
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>فرم ثبت‌نام</title>
+  <link rel="stylesheet" href="signup.css">
+</head>
+<body>
+  <h1>ثبت‌نام در سایت ضایعات</h1>
+  <form class="signup-form">
+    <label for="name">نام کامل:</label>
+    <input type="text" id="name" name="name" required>
 
+    <label for="phone">شماره تماس:</label>
+    <input type="tel" id="phone" name="phone" required>
+
+    <label for="password">رمز عبور:</label>
+    <input type="password" id="password" name="password" required>
+
+    <button type="submit">ثبت‌نام</button>
+  </form>
+</body>
+</html>
 h1 {
   color: #2c3e50;
 }
