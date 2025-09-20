@@ -15,3 +15,15 @@ p {
   font-size: 18px;
   color: #34495e;
 }
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>سایت ضایعات</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>خرید و فروش ضایعات</h1>
+  <p>به سایت ما خوش آمدید!</p>
+</body>
+</html>
