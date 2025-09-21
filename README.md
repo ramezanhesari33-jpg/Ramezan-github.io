@@ -1,4 +1,4 @@
-index.htm
+index.html
 
 <!DOCTYPE html>
 <html lang="fa">
