@@ -1,4 +1,4 @@
-۲
+
 [www.kanfolad.ir](http://www.kanfolad.ir)
 
 ## ♻️ خرید و فروش ضایعات آلومینیوم و مس | کنفولاد
